@@ -1,0 +1,14 @@
+H  - Ouvre la fenètre d'aide
+A  - Ouvre une table Ascii
+
+R  - Remet à zéro le compilateur
+>  - Avance le compilateur d'un caractère
+>> - Avance le compilateur jusqu'à la fin
+
+\n - Valide la ligne en cours d'écriture et passe à la suivante
+V  - Valide la réponse à la requette du compilateur
+
+P  - Change de dossier de travail
+D  - Ouvre une fenètre pour naviguer dans les fichiers et en ouvrir un
+S  - Sauvegarde dans le dossier de travail sous le nom choisi à côté
+L  - Charge le fichier choisi dans le compilateur (attention, cela écrase ce qui a déjà été écrit)
